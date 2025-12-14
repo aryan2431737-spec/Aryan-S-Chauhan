@@ -1,7 +1,7 @@
 # Aryan-S-Chauhan
 <h1 align="center">Hi 👋, I'm Aryan Singh Chauhan</h1>
 <h3 align="center">A passionated frontend and logic building developer from India</h3>
-
+<img allign='"right" alt="coding" width="400" src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1434/https://s3.cointelegraph.com/uploads/2023-01/158029af-a86a-402f-a5b5-e915cc69f138.JPG"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan2431737-spec&label=Profile%20views&color=0e75b6&style=flat" alt="aryan2431737-spec" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan2431737-spec" alt="aryan2431737-spec" /></a> </p>

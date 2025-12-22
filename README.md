@@ -19,9 +19,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="github/workflows/snake.yml" alt="Snake animation" />
-</p>
 
 ---
 

@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aryan2431737-spec/aryan2431737-spec/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/aryan2431737-spec/Aryan-S-Chauhan/commit/bc9ff13a918f57a91b693da0bae9a8cd39ad14e8" alt="Snake animation" />
 </p>
 
 ---

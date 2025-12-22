@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer & logic-building enthusiast from India</h3>
 
 <div align="center">
-  <img src="https://your-profile-picture-url-here.jpg" alt="Aryan Singh Chauhan" width="200" style="border-radius: 50%; border: 5px solid #00eaff; box-shadow: 0 0 20px rgba(0, 234, 255, 0.5);" />
+  <img src="https://github.com/aryan2431737-spec.png" alt="Aryan Singh Chauhan" width="200" style="border-radius: 50%; border: 5px solid #00eaff; box-shadow: 0 0 20px rgba(0, 234, 255, 0.5);" />
 </div>
 
 <p align="center">
@@ -17,6 +17,10 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aryan2431737-spec" alt="aryan2431737-spec" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryan2431737-spec/aryan2431737-spec/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---

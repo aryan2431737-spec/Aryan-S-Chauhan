@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=00EAFF&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Aryan+Singh+Chauhan;Frontend+Developer+💻;Logic+Building+Enthusiast+🧠;Turning+Ideas+Into+Web+Experiences+✨" alt="Typing SVG" />
-</h1>
+
 
 <h3 align="center">🚀 A passionate Frontend Developer from India 🇮🇳</h3>
 
@@ -17,6 +15,9 @@
 </p>
 
 ---
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🧑‍💻 About Me
 

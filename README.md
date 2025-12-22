@@ -1,6 +1,7 @@
 
 
-<h3 align="center">🚀 A passionate Frontend Developer from India 🇮🇳</h3>
+<h3 align="center">📚 Computer Science Student  Tech Explorer
+</h3>
 
 <div align="center">
   <img src="https://github.com/aryan2431737-spec.png" width="200" style="border-radius:50%;border:5px solid #00eaff;box-shadow:0 0 25px rgba(0,234,255,0.6);" />

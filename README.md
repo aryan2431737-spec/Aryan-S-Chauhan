@@ -75,13 +75,7 @@
 
 ---
 
-## 🐍 Contribution Graph
 
-<div align="center">
-  <img src="https://github.com/aryan2431737-spec/aryan2431737-spec/blob/output/github-contribution-grid-snake.svg" />
-</div>
-
----
 
 ## 🌟 Quote I Believe In
 

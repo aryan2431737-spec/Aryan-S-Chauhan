@@ -50,20 +50,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryan2431737-spec&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan2431737-spec&theme=tokyonight" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan2431737-spec&layout=compact&theme=tokyonight" />
-
-</div>
-
----
 
 
 ---

@@ -31,7 +31,7 @@
 - 🤝 Open for **collaborations & internships**
 
 📌 **Portfolio:**  
-👉 https://aryan2431737-spec.github.io/Portfolio/
+👉https://aryan2431737-spec.github.io/New-portfolio-/
 
 📫 **Email:**  
 📧 aryan2431737@gmail.com
